@@ -1,20 +1,8 @@
 <div align="center">
-  <img height="150" src="https://avatars.githubusercontent.com/u/142170496?v=4"  />
-</div>
-
-###
-
-<div align="center">
   <a href="https://www.linkedin.com/in/saad-ahmed-siddiqui-666075288?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BRHFNyqybS3GmRWJ3s6ezpA%3D%3D" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<h1 align="center">Hey There👋</h1>
-
-###
 
 <h3 align="left">👩‍💻  About Me</h3>
 
