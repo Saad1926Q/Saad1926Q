@@ -8,6 +8,9 @@
   <a href="https://www.linkedin.com/in/saad-ahmed-siddiqui-666075288?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BRHFNyqybS3GmRWJ3s6ezpA%3D%3D" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
+    <a href="https://leetcode.com/saad1926q/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=LeetCode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="leetcode logo" />
+  </a>
 </div>
 
 ###
