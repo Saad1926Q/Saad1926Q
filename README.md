@@ -11,6 +11,9 @@
     <a href="https://leetcode.com/saad1926q/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LeetCode&logo=LeetCode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="leetcode logo" />
   </a>
+    <a href="https://www.geeksforgeeks.org/user/saad1926q/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GeeksforGeeks&logo=geeksforgeeks&label=&color=5B9B2D&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="geeksforgeeks logo" />
+  </a>
 </div>
 
 ###
