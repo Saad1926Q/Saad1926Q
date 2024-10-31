@@ -14,6 +14,15 @@
     <a href="https://www.geeksforgeeks.org/user/saad1926q/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=GeeksforGeeks&logo=geeksforgeeks&label=&color=5B9B2D&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="geeksforgeeks logo" />
   </a>
+    <a href="https://www.kaggle.com/saad1926q" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Kaggle&logo=kaggle&label=&color=20BEFF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="kaggle logo" />
+  </a>
+    <a href="https://devpost.com/saad-ahmed1926q" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Devpost&logo=devpost&label=&color=6B9B4A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devpost logo" />
+  </a>
+    <a href="https://devfolio.co/@saad1926q" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Devfolio&logo=devfolio&label=&color=2B2D42&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devfolio logo" />
+  </a>
 </div>
 
 ###
