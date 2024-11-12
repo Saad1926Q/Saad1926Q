@@ -37,7 +37,7 @@
 
 <p align="left">
   <strong>SDE Intern</strong> at <em>Exatorial Pvt Ltd</em><br>
-  I completed a 2-month internship at Exatorial during my semester break, working on the Exatorial web app (React-based). My primary focus was the HR section of the application. This experience allowed me to tackle real-life problems alongside a supportive team. I was honored to be recognized as Intern of the Month, adding to the positive internship experience.
+  I completed a 2-month internship at Exatorial, working on the Exatorial web app (React-based). I was recognized as Intern of the Month, adding to the positive internship experience.
 </p>
 
 ###
@@ -48,8 +48,6 @@
 <p align="left">
   A terminal-based video player that converts videos into ASCII art. 
   <a href="https://pypi.org/project/ascii-flix/">[PyPI Link]</a> 
-  <br>
-  <img src="https://static.pepy.tech/badge/ascii-flix" alt="PyPI Downloads" />
 </p>
 
 <h4>Water Quality Prediction Model</h4>
@@ -57,19 +55,6 @@
   A TensorFlow CNN for predicting water quality via image classification, developed for the Xylem India Hackathon 2024.
   <br><a href="https://github.com/owaismohammad/pristine-cnn">[GitHub Repository]</a>
 </p>
-
-###
-
-<h3 align="left">🔔 Acknowledgments</h3>
-
-<ul align="left">
-  <li>
-    Runner-up (Team Hackshield) at Hack JMI 2024 organized by IEEE JMI. We crafted an educational website, <a href="https://devfolio.co/projects/exams-72d6" target="_blank">Exams360</a>, aiming to simplify the exam preparation journey for students tackling IITJEE, NEET, and NDA. 📚 🌐 Exams360: Navigating the Maze. Our vision was clear: provide a centralized hub for free resources, sparing students the struggle of sifting through countless options. 
-  </li>
-  <li>
-    Placed in the <strong>Top 10</strong> (Team N3xus) at the <a href="https://www.kaggle.com/competitions/paradox-ml-challenge/leaderboard" target="_blank">Paradox ML Challenge</a> organized by GDSC JMI. The competition, titled "YT Comments Classification ML Challenge," invited participants to classify YouTube comments from Indian educational videos into three categories: doubt, irrelevant, and feedback. The challenge was a fantastic opportunity to showcase our machine learning skills and optimize our model for the highest F1 score.
-  </li>
-</ul>
 
 ###
 
@@ -108,6 +93,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Saad1926Q&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2&hide=jupyter%20notebook,html,css" height="150" alt="languages graph" />
+  <br>
   <img src="https://streak-stats.demolab.com?user=Saad1926Q&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
 </div>
 
