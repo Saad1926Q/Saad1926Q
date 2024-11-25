@@ -2,7 +2,6 @@
   <img height="150" src="https://avatars.githubusercontent.com/u/142170496?v=4" />
 </div>
 
-###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/saad-ahmed-siddiqui-666075288?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BRHFNyqybS3GmRWJ3s6ezpA%3D%3D" target="_blank">
@@ -25,13 +24,13 @@
   </a>
 </div>
 
-###
+
 
 <h3 align="left">🧑‍💻 About Me</h3>
 
 <p align="left">I'm Saad Ahmed Siddiqui from New Delhi, India.<br><br>- 🔭 I’m a Computer Engineering Student<br>- 📚 Currently learning Machine Learning<br>- ⚡ In my free time, I like to make cool stuff</p>
 
-###
+
 
 <h3 align="left">💼 Experience</h3>
 
@@ -40,8 +39,7 @@
   I completed a 2-month internship at Exatorial, working on the Exatorial web app (React-based). I was recognized as Intern of the Month, adding to the positive internship experience.
 </p>
 
-###
-
+---
 <h3 align="left">🚀 Projects</h3>
 
 <h4>ASCII Flix</h4>
@@ -56,7 +54,7 @@
   <br><a href="https://github.com/owaismohammad/pristine-cnn">[GitHub Repository]</a>
 </p>
 
-###
+
 
 <h3 align="left">🛠 Languages and Tools</h3>
 
@@ -87,16 +85,21 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/OpenCV_Logo_with_text.png/487px-OpenCV_Logo_with_text.png" height="40" alt="opencv logo" />
 </div>
 
-###
+---
 
+<img src="https://leetcard.jacoblin.cool/saad1926q?theme=nord" alt="LeetCode Stats - Unicorn Theme">
+
+---
 <h3 align="left">🔥 My Stats :</h3>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Saad1926Q&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2&hide=jupyter%20notebook,html,css" height="150" alt="languages graph" />
   <br>
-  <img src="https://streak-stats.demolab.com?user=Saad1926Q&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
+
+
+
+
 </div>
 
-###
-
+---
 
