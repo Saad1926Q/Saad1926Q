@@ -10,14 +10,18 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
 **Computer Engineering Student | New Delhi, India**  
-Interested in the intersection of **Machine Learning & Biosciences**
+
+I think I find pretty much everything in **tech** and **machine learning** quite interesting (though I don’t really like web dev).  
+What drives me is the idea of being at the **frontier of ML** - building systems that can perceive, reason, and interact with the world in more human-like ways. Just like we process the world through a mix of sensory signals and context, I’m intrigued by how models can combine different types of data - text, images, audio, and beyond - to form richer, more grounded understanding. Working toward that kind of intelligence, where models don’t just compute but actually *comprehend*, is what excites me most.
+
+I write blogs every now and then on [Medium](https://medium.com/@saad.ahmed1926q)  
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="50" alt="PyTorch" />
@@ -44,17 +48,17 @@ Interested in the intersection of **Machine Learning & Biosciences**
   <a href="https://www.linkedin.com/in/saad-ahmed-siddiqui-666075288" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="LinkedIn" />
   </a>
-  <a href="https://bento.me/sodakey" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Bento&logo=data:image/png;base64,YOUR_BENTO_LOGO_BASE64&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="Bento" />
+  <a href="https://sodakeyeatsmush.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Website&logo=google-chrome&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="Website" />
   </a>
 </div>
 
 ---
 
-## 🔬 What I'm Up To
+## Currently Exploring
 
-- Currently learning **Deep Learning**  
-- Exploring **Transformers** & planning a **multimodal learning** project  
-- Interested in **deep learning research** & **gene expression**
+- **Vision-Language Models**
+- **Reinforcement Learning**
+- **Reasoning Models**
 
 ---
